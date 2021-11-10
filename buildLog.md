@@ -52,12 +52,18 @@ shift + ctrl + p
 
 ---
 
-## Development
+## Front-end Development
 
 ```
-mkdir template
+mkdir template >> index.html && success.html
 ------------------------------------
-mkdir static >> touch style.css
+mkdir static >> style.css
 ------------------------------------
 
+```
+
+## Back-end Development
+
+```
+touch app.py
 ```
